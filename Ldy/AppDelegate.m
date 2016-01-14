@@ -10,6 +10,8 @@
 
 @interface AppDelegate ()
 @property (nonatomic,strong)NSMutableArray * dataArray;
+
+@property (nonatomic,strong)UIButton * button;
 @end
 
 @implementation AppDelegate
