@@ -12,9 +12,7 @@
 @property (nonatomic,strong)NSMutableArray * dataArray;
 
 @property (nonatomic,strong)UIButton * button;
-@property(strong,nonatomic) UILabel * label;
-@property (nonatomic,strong)UITextField * textFild;
-
+@property(strong,nonatomic) UILabel *alal;
 @end
 
 @implementation AppDelegate
