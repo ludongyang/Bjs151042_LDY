@@ -12,6 +12,7 @@
 @property (nonatomic,strong)NSMutableArray * dataArray;
 
 @property (nonatomic,strong)UIButton * button;
+@property(strong,nonatomic) UILabel *alabel;
 @end
 
 @implementation AppDelegate
