@@ -12,17 +12,13 @@
 @property (nonatomic,strong)NSMutableArray * dataArray;
 
 @property (nonatomic,strong)UIButton * button;
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 @property(strong,nonatomic) UILabel *alabelTilte;
-=======
+
 @property(strong,nonatomic) UILabel * label;
 @property (nonatomic,strong)UITextField * textFild;
 
->>>>>>> 5755eccc02300fca866924881978b6d5a712ccb4
-=======
-@property(strong,nonatomic) UILabel *alal;
->>>>>>> 1d398d21d03d51a8b3345a3688efd1fa105cd840
+
 @end
 
 @implementation AppDelegate
