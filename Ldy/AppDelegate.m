@@ -13,12 +13,6 @@
 
 @property (nonatomic,strong)UIButton * button;
 
-@property(strong,nonatomic) UILabel *alabelTilte;
-
-@property(strong,nonatomic) UILabel * label;
-@property (nonatomic,strong)UITextField * textFild;
-
-
 @end
 
 @implementation AppDelegate
